@@ -194,3 +194,12 @@ Every version released on *MELPA* has a version number. These versions follow [S
 * Do some basic manual testing (let this branch sit on my machine for a couple of days)
 
 I intend to automate some of these steps as time continues.
+
+# About me
+I make productivity tools and AI tools related to reading and research.
+If that sounds interesting you can follow me on <a href="https://x.com/readwithai">twitter</a> or <a href="https://bsky.app/profile/readwithai.bsky.social">bluesky</a>.
+
+I write about these topics on <a href="https://readwithai.substack.com/readwithai">substack</a>.
+
+If you find *this* piece of software useful. Maybe give me money (like $2 dollars?) on my <a href="ko-fi.com/readwithai">kofi</a>.
+
